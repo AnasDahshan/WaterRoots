@@ -54,7 +54,7 @@ Users are welcomed with an intuitive sign-up/login interface.
 - Supports **Google & Apple SSO** for seamless access.
 - Upon authentication, users are directed to the dashboard.
 
-![Sign-Up/Login](images/Auth.png)
+![Sign-Up/Login](images/1.png)
 
 ### 2. Home Screen
 Provides a **comprehensive system overview** and educational resources.
@@ -63,21 +63,21 @@ Provides a **comprehensive system overview** and educational resources.
 - **Recipe suggestions** based on the user’s harvest.
 - **Daily tips** for plant maintenance.
 
-![Home Screen](images/Home-SCreen.png)
+![Home Screen](images/2.png)
 
 ### 3. Community Forum
 An interactive space where users can **share insights, troubleshoot, and connect**.
 - Users can **post images, ask questions, and engage with others**.
 - Includes **like, comment, and timestamped post organization**.
 
-![Community Forum](fr.png)
+![Community Forum](images/3.png)
 
 ### 4. Sprout – AI Chatbot
 The AI chatbot assists users with **hydroponic care and troubleshooting**.
 - Provides **real-time diagnostics** for nutrient deficiencies, pH levels, and plant diseases.
 - Users can **upload images** for analysis and receive actionable insights.
 
-![AI Chatbot](PLACEHOLDER_FOR_CHATBOT_SCREEN)
+![AI Chatbot](images/4.png)
 
 ### 5. System Control (Manual & Auto Mode)
 Users can control hydroponic components via **Manual or Auto Mode**.
@@ -85,7 +85,7 @@ Users can control hydroponic components via **Manual or Auto Mode**.
 - **Auto Mode**: System adjusts **water, nutrients, and climate** autonomously.
 - **Live monitoring** of **temperature, humidity, pH, and TDS**.
 
-![System Control](PLACEHOLDER_FOR_CONTROL_SCREEN)
+![System Control](images/5.png)
 
 ### 6. Garden Section – Plant Growth Tracking
 Tracks plant progress from **germination to harvest**.
@@ -93,14 +93,14 @@ Tracks plant progress from **germination to harvest**.
 - Provides **actionable tips** for each stage of plant development.
 - Features a **progress bar** for visual tracking.
 
-![Garden Section](PLACEHOLDER_FOR_GARDEN_SCREEN)
+![Garden Section](images/6.png)
 
 ### 7. User Profile & Settings
 Manages user **account settings and preferences**.
 - Customizes **profile details and notifications**.
 - Enhances **user experience and system personalization**.
 
-![Profile & Settings](PLACEHOLDER_FOR_PROFILE_SCREEN)
+![Profile & Settings](images/7.png)
 
 
 ---
