@@ -1,6 +1,6 @@
-# 🌱 WaterRoots - Smart Hydroponic Farming System
+  # 🌱 WaterRoots - Smart Hydroponic Farming System
 
-![WaterRoots Logo](PLACEHOLDER_FOR_LOGO)
+![WaterRoots Logo](images/WR.png)
 
 ## 📌 Project Overview
 WaterRoots is a **smart hydroponic indoor/outdoor farming system** that enables users to grow plants in limited spaces. The system integrates IoT technology for control and monitoring via a mobile application. It uses various sensors and actuators to ensure optimal plant growth while providing a user-friendly interface for easy management.
@@ -46,11 +46,62 @@ Here are images of the **final working build** of WaterRoots, showcasing the rea
 ---
 
 ## 📱 Mobile App
-The **WaterRoots App** allows users to monitor and control the system remotely. Below are screenshots of various app screens.
+The **WaterRoots App** allows users to monitor and control the system remotely. Below are screenshots of various app screens categorized by functionality:
 
-![App Screenshot 1](PLACEHOLDER_FOR_APP_SCREENSHOT_1)
-![App Screenshot 2](PLACEHOLDER_FOR_APP_SCREENSHOT_2)
-![App Screenshot 3](PLACEHOLDER_FOR_APP_SCREENSHOT_3)
+### 1. Sign-In/Sign-Up
+Users are welcomed with an intuitive sign-up/login interface. 
+- **Firebase Authentication** ensures secure login.
+- Supports **Google & Apple SSO** for seamless access.
+- Upon authentication, users are directed to the dashboard.
+
+![Sign-Up/Login](PLACEHOLDER_FOR_SIGNUP_SCREEN)
+
+### 2. Home Screen
+Provides a **comprehensive system overview** and educational resources.
+- Displays **water level, WiFi status, and actuator control**.
+- **Educational guides** for pruning, pollinating, and harvesting.
+- **Recipe suggestions** based on the user’s harvest.
+- **Daily tips** for plant maintenance.
+
+![Home Screen](PLACEHOLDER_FOR_HOME_SCREEN)
+
+### 3. Community Forum
+An interactive space where users can **share insights, troubleshoot, and connect**.
+- Users can **post images, ask questions, and engage with others**.
+- Includes **like, comment, and timestamped post organization**.
+
+![Community Forum](PLACEHOLDER_FOR_FORUM_SCREEN)
+
+### 4. Sprout – AI Chatbot
+The AI chatbot assists users with **hydroponic care and troubleshooting**.
+- Provides **real-time diagnostics** for nutrient deficiencies, pH levels, and plant diseases.
+- Users can **upload images** for analysis and receive actionable insights.
+
+![AI Chatbot](PLACEHOLDER_FOR_CHATBOT_SCREEN)
+
+### 5. System Control (Manual & Auto Mode)
+Users can control hydroponic components via **Manual or Auto Mode**.
+- **Manual Mode**: Direct control over **grow lights, fans, water pumps, and nutrient pumps**.
+- **Auto Mode**: System adjusts **water, nutrients, and climate** autonomously.
+- **Live monitoring** of **temperature, humidity, pH, and TDS**.
+
+![System Control](PLACEHOLDER_FOR_CONTROL_SCREEN)
+
+### 6. Garden Section – Plant Growth Tracking
+Tracks plant progress from **germination to harvest**.
+- Displays **growth stages, plant type, and days to harvest**.
+- Provides **actionable tips** for each stage of plant development.
+- Features a **progress bar** for visual tracking.
+
+![Garden Section](PLACEHOLDER_FOR_GARDEN_SCREEN)
+
+### 7. User Profile & Settings
+Manages user **account settings and preferences**.
+- Customizes **profile details and notifications**.
+- Enhances **user experience and system personalization**.
+
+![Profile & Settings](PLACEHOLDER_FOR_PROFILE_SCREEN)
+
 
 ---
 
