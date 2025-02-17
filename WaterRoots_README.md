@@ -108,15 +108,15 @@ Manages user **account settings and preferences**.
 ## 🎛 Nextion Display
 The **Nextion Display Interface** provides an alternative local control method for users who prefer a touchscreen setup.
 
-![Nextion Screen 1](PLACEHOLDER_FOR_NEXTION_SCREEN_1)
-![Nextion Screen 2](PLACEHOLDER_FOR_NEXTION_SCREEN_2)
+![Nextion Screen 1](images/nextion.png)
+![Nextion Screen 2](images/nextion2.png)
 
 ---
 
 ## 🎥 Video Demo
 Watch a full **demonstration** of the WaterRoots system in action:
 
-[![Watch the Video](PLACEHOLDER_FOR_VIDEO_THUMBNAIL)](PLACEHOLDER_FOR_VIDEO_LINK)
+[![Watch the Video](waterrootsystem.png)](https://github.com/user-attachments/assets/8ba38c00-45a4-4d18-833e-2918a508d450)
 
 ---
 
