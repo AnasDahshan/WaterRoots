@@ -33,15 +33,15 @@ WaterRoots is a **smart hydroponic indoor/outdoor farming system** that enables 
 ## 🏗 System Design
 Below is the full design of the **WaterRoots System**, including structural layout, sensor placement, and flow of operations.
 
-![System Design](PLACEHOLDER_FOR_SYSTEM_DESIGN_IMAGE)
+![System Design](images/design.png)
 
 ---
 
 ## 🏡 Final Build
 Here are images of the **final working build** of WaterRoots, showcasing the real-world implementation.
 
-![Final Build - Image 1](PLACEHOLDER_FOR_FINAL_BUILD_IMAGE_1)
-![Final Build - Image 2](PLACEHOLDER_FOR_FINAL_BUILD_IMAGE_2)
+![Final Build - Image 1](images/waterrootsystem.png)
+![Final Build - Image 2](images/system2.png)
 
 ---
 
@@ -54,7 +54,7 @@ Users are welcomed with an intuitive sign-up/login interface.
 - Supports **Google & Apple SSO** for seamless access.
 - Upon authentication, users are directed to the dashboard.
 
-![Sign-Up/Login](PLACEHOLDER_FOR_SIGNUP_SCREEN)
+![Sign-Up/Login](images/Auth.png)
 
 ### 2. Home Screen
 Provides a **comprehensive system overview** and educational resources.
@@ -63,14 +63,14 @@ Provides a **comprehensive system overview** and educational resources.
 - **Recipe suggestions** based on the user’s harvest.
 - **Daily tips** for plant maintenance.
 
-![Home Screen](PLACEHOLDER_FOR_HOME_SCREEN)
+![Home Screen](images/Home-SCreen.png)
 
 ### 3. Community Forum
 An interactive space where users can **share insights, troubleshoot, and connect**.
 - Users can **post images, ask questions, and engage with others**.
 - Includes **like, comment, and timestamped post organization**.
 
-![Community Forum](PLACEHOLDER_FOR_FORUM_SCREEN)
+![Community Forum](fr.png)
 
 ### 4. Sprout – AI Chatbot
 The AI chatbot assists users with **hydroponic care and troubleshooting**.
