@@ -1,6 +1,6 @@
   # 🌱 WaterRoots - Smart Hydroponic Farming System
 
-![WaterRoots Logo](images/logo2.png)
+![WaterRoots Logo](images/ll.png)
 
 ## 📌 Project Overview
 WaterRoots is a **smart hydroponic indoor/outdoor farming system** that enables users to grow plants in limited spaces. The system integrates IoT technology for control and monitoring via a mobile application. It uses various sensors and actuators to ensure optimal plant growth while providing a user-friendly interface for easy management.
